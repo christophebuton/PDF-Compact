@@ -6,4 +6,4 @@ python3-tk
 ghostscript
 
 ## 🤖 Crédits et Remerciements
-Ce projet a été conçu et développé en collaboration avec un assistant IA pour la structuration du code Python/Tkinter et l'optimisation de la gestion des commandes `rsync` `coreutils`.
+Ce projet a été conçu et développé en collaboration avec un assistant IA pour la structuration du code Python/Tkinter et l'optimisation de la gestion des commandes `ghostscript`.
